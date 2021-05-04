@@ -1,2 +1,3 @@
 # Action-Recognition
-Usual Action Recognition but Cooler and Quicker
+
+Optimized Action Recognition to enable faster inferences using just images instead of videos
